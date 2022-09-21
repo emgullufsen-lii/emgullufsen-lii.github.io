@@ -14,7 +14,6 @@
 
         brew install cmake ninja pybind11 Cython re2
         sudo find / -name cython
-
 *We will use the path to cython found via 'find' below - you can double-check this is the actual cython binary by invoking it with the '--version' argument.
 
         <path>/cython --version
